@@ -1,10 +1,10 @@
 # Classes + Constructor
   * Node
-    a. value
-    b. next
+    1. value
+    2. next
   * LinkedList
-    a. head
-    b. size
+    1. head
+    2. size
 # Functions
   * Add
   * InsertAt
