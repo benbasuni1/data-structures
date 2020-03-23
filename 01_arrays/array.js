@@ -1,13 +1,3 @@
-/* 
-   ---- Functions ----
-  * Get
-  * Set
-  * InsertAt
-  * Delete
-  * isEmpty
-  * Contains
-*/
-
 class DynamicArray {
 
   constructor() {
