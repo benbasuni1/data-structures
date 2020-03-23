@@ -1,7 +1,8 @@
+# Constructor
+ 1. Length
+ 2. Data Object
+
 # Functions
-  * Constructor   
-      * Length
-      * Data Object
   * Get
   * Set
   * InsertAt
