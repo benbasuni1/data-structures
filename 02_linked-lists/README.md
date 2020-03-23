@@ -2,8 +2,12 @@
   * Node 
   * LinkedList
 # Constructor
-  * head
-  * size
+  * Node
+    1. value
+    2. next
+  * LinkedList
+    1. head
+    2. size
 # Functions
   * Add
   * InsertAt
